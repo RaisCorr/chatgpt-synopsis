@@ -6,7 +6,6 @@ To get started, clone the repository by running the following command in your te
 
 ```
 git clone https://github.com/RaisCorr/chatgpt-synopsis.git
-
 ```
 
 ## Installation
@@ -14,13 +13,11 @@ You can install the necessary libraries using Poetry by running the command:
 
 ```
 poetry install
-
 ```
 
 If you prefer to use pip, you can install the libraries by running the following command:
 ```
 pip install -r requirements.txt
-
 ```
 
 ## API Key Registration
@@ -34,7 +31,6 @@ Before running the application, ensure that the VOICEVOX speech synthesis engine
 To run the application, navigate to the root directory of the cloned repository and run the following command:
 ```
 streamlit run main.py
-
 ```
 
 This will start the Streamlit app and open it in your default web browser. You can now interact with the ChatGPT application in the browser.
