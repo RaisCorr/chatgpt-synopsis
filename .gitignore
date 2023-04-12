@@ -127,9 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# python-dotenv
-.env
-
-# sqlite3
-chatbot.db

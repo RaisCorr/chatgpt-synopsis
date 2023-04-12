@@ -1,7 +1,11 @@
+import os
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 from langchain.chains import SequentialChain
+
+# OpenAI APIkey
+OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
 
 def overall_chain(theme):
