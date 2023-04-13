@@ -33,4 +33,7 @@ To run the application, navigate to the root directory of the cloned repository 
 streamlit run main.py
 ```
 
-This will start the Streamlit app and open it in your default web browser. You can now interact with the ChatGPT application in the browser.
+This will start the Streamlit app and open it in your default web browser. You can now interact with the ChatGPT application in the browser.  
+
+
+RaisCorr
